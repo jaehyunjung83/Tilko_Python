@@ -6,4 +6,6 @@ C:\>python -m pip install requests
 
 C:\>python -m pip install asn1crypto
 
+C:\>python -m pip install pycrypto
+
 C:\>python -m pip install pycryptodome
